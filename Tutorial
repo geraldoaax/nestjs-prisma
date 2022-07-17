@@ -1,0 +1,2 @@
+npm i --save @nestjs/core @nestjs/common rxjs reflect-metadata //padrao do site nest
+yarn add @nestjs/config      //Variáveis de ambiente
